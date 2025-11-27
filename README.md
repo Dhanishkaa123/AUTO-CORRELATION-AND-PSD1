@@ -66,8 +66,7 @@ plot(fw2);
 ```
 ---
 ## **Output:**
-
-<img width="1920" height="1200" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/81bf1202-c2f9-4bcf-b294-3b5dc8df34d2" />
+<img width="1862" height="1012" alt="image" src="https://github.com/user-attachments/assets/b1f1f0ee-3e39-4d17-9907-a6ae5196042d" />
 
 ---
 
